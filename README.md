@@ -1,1 +1,1 @@
-# Sass-project <a href ="https://gkemas.github.io/Sass-project/">Click me</a>
+# Sass-project <a href ="https://gkemas.github.io/SassProje/">Click me</a>
